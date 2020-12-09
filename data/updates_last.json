@@ -2719,6 +2719,13 @@
     ],
     "1607": [
         {
+            "heading": "December 8, 2020\u2014KB4593226 (OS Build 14393.4104)",
+            "updateKb": "KB4593226",
+            "updateUrl": "https://support.microsoft.com/en-us/help/4593226",
+            "releaseDate": "2020-12-08T00:00:00",
+            "releaseVersion": "OS Build 14393.4104"
+        },
+        {
             "heading": "November 19, 2020\u2014KB4594441 (OS Build 14393.4048) Out-of-band",
             "updateKb": "KB4594441",
             "updateUrl": "https://support.microsoft.com/en-us/help/4594441",
