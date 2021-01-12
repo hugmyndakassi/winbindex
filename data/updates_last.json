@@ -3731,6 +3731,13 @@
     ],
     "1507": [
         {
+            "heading": "January 12, 2021\u2014KB4598231 (OS Build 10240.18818)",
+            "updateKb": "KB4598231",
+            "updateUrl": "https://support.microsoft.com/en-us/help/4598231",
+            "releaseDate": "2021-01-12T00:00:00",
+            "releaseVersion": "OS Build 10240.18818"
+        },
+        {
             "heading": "December 8, 2020\u2014KB4592464 (OS Build 10240.18782)",
             "updateKb": "KB4592464",
             "updateUrl": "https://support.microsoft.com/en-us/help/4592464",
