@@ -1,6 +1,13 @@
 {
     "20H2": [
         {
+            "heading": "January 12, 2021\u2014KB4598242 (OS Builds 19041.746 and 19042.746)",
+            "updateKb": "KB4598242",
+            "updateUrl": "https://support.microsoft.com/en-us/help/4598242",
+            "releaseDate": "2021-01-12T00:00:00",
+            "releaseVersion": "2004-OS Build 19041.746 and 20H2-OS Build 19042.746"
+        },
+        {
             "heading": "December 8, 2020\u2014KB4592438 (OS Builds 19041.685 and 19042.685)",
             "updateKb": "KB4592438",
             "updateUrl": "https://support.microsoft.com/en-us/help/4592438",
@@ -37,6 +44,13 @@
         }
     ],
     "2004": [
+        {
+            "heading": "January 12, 2021\u2014KB4598242 (OS Builds 19041.746 and 19042.746)",
+            "updateKb": "KB4598242",
+            "updateUrl": "https://support.microsoft.com/en-us/help/4598242",
+            "releaseDate": "2021-01-12T00:00:00",
+            "releaseVersion": "2004-OS Build 19041.746 and 20H2-OS Build 19042.746"
+        },
         {
             "heading": "December 8, 2020\u2014KB4592438 (OS Builds 19041.685 and 19042.685)",
             "updateKb": "KB4592438",
