@@ -45100,6 +45100,7 @@
 "wmsselfhealingsvc.exe",
 "wmssessionagent.exe",
 "wmssharinghost.dll",
+"wmsshell.exe",
 "wmsstatusaddinconfig.addin",
 "wmsstatustab.dll",
 "wmsstatustab.resources.dll",

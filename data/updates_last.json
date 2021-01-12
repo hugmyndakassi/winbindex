@@ -2747,6 +2747,13 @@
     ],
     "1607": [
         {
+            "heading": "January 12, 2021\u2014KB4598243 (OS Build 14393.4169)",
+            "updateKb": "KB4598243",
+            "updateUrl": "https://support.microsoft.com/en-us/help/4598243",
+            "releaseDate": "2021-01-12T00:00:00",
+            "releaseVersion": "OS Build 14393.4169"
+        },
+        {
             "heading": "December 8, 2020\u2014KB4593226 (OS Build 14393.4104)",
             "updateKb": "KB4593226",
             "updateUrl": "https://support.microsoft.com/en-us/help/4593226",
