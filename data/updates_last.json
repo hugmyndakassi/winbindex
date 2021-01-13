@@ -1033,6 +1033,13 @@
     ],
     "1803": [
         {
+            "heading": "January 12, 2021\u2014KB4598245 (OS Build 17134.1967)",
+            "updateKb": "KB4598245",
+            "updateUrl": "https://support.microsoft.com/en-us/help/4598245",
+            "releaseDate": "2021-01-12T00:00:00",
+            "releaseVersion": "OS Build 17134.1967"
+        },
+        {
             "heading": "December 8, 2020\u2014KB4592446 (OS Build 17134.1902)",
             "updateKb": "KB4592446",
             "updateUrl": "https://support.microsoft.com/en-us/help/4592446",
