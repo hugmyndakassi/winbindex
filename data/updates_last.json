@@ -3657,6 +3657,12 @@
             "heading": "February 9, 2016 &#x2014; KB3135174 (OS Build 10240.16683)"
         },
         {
+            "updateKb": "KB3116869",
+            "updateUrl": "https://support.microsoft.com/help/3116869",
+            "releaseDate": "2015-12-08",
+            "releaseVersion": "10240.16601"
+        },
+        {
             "updateKb": "KB3105213",
             "updateUrl": "https://support.microsoft.com/help/3105213",
             "releaseDate": "2015-11-10",
