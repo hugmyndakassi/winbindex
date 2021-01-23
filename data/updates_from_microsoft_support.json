@@ -131,6 +131,12 @@
     ],
     "1909": [
         {
+            "updateKb": "KB4598298",
+            "updateUrl": "https://support.microsoft.com/help/4598298",
+            "releaseDate": "2021-01-21",
+            "heading": "January 21, 2021&#x2014;KB4598298 (OS Build 18363.1350)"
+        },
+        {
             "updateKb": "KB4598229",
             "updateUrl": "https://support.microsoft.com/help/4598229",
             "releaseDate": "2021-01-12",
@@ -542,6 +548,12 @@
         }
     ],
     "1809": [
+        {
+            "updateKb": "KB4598296",
+            "updateUrl": "https://support.microsoft.com/help/4598296",
+            "releaseDate": "2021-01-21",
+            "heading": "January 21, 2021&#x2014;KB4598296 (OS Build 17763.1728)"
+        },
         {
             "updateKb": "KB4598230",
             "updateUrl": "https://support.microsoft.com/help/4598230",
@@ -3209,12 +3221,6 @@
             "updateUrl": "https://support.microsoft.com/help/4001771",
             "releaseDate": "2016-02-09",
             "heading": "February 9, 2016 &#x2014; KB3135173 (OS Build 10586.104)"
-        },
-        {
-            "updateKb": "KB4093109",
-            "updateUrl": "https://support.microsoft.com/help/4093109",
-            "releaseDate": "2018-04-10",
-            "releaseVersion": "10586.1540"
         }
     ],
     "1507": [
@@ -3447,6 +3453,12 @@
             "heading": "August 14, 2018&#x2014;KB4343892 (OS Build 10240.17946)"
         },
         {
+            "updateKb": "KB4345455",
+            "updateUrl": "https://support.microsoft.com/help/4345455",
+            "releaseDate": "2018-07-16",
+            "heading": "July 16, 2018&#x2014;KB4345455 (OS Build 10240.17918)"
+        },
+        {
             "updateKb": "KB4338829",
             "updateUrl": "https://support.microsoft.com/help/4338829",
             "releaseDate": "2018-07-10",
@@ -3649,12 +3661,6 @@
             "updateUrl": "https://support.microsoft.com/help/4001781",
             "releaseDate": "2016-02-09",
             "heading": "February 9, 2016 &#x2014; KB3135174 (OS Build 10240.16683)"
-        },
-        {
-            "updateKb": "KB3074683",
-            "updateUrl": "https://support.microsoft.com/help/3074683",
-            "releaseDate": "2015-07-29",
-            "releaseVersion": "10240.16405"
         }
     ]
 }
