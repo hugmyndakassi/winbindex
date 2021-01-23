@@ -3223,6 +3223,12 @@
             "releaseVersion": "10586.71"
         },
         {
+            "updateKb": "KB3124263",
+            "updateUrl": "https://support.microsoft.com/help/3124263",
+            "releaseDate": "2016-01-12",
+            "releaseVersion": "10586.63"
+        },
+        {
             "updateKb": "KB3124200",
             "updateUrl": "https://support.microsoft.com/help/3124200",
             "releaseDate": "2015-12-17",
