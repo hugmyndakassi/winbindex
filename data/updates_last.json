@@ -3039,6 +3039,12 @@
             "updateUrl": "https://support.microsoft.com/help/4001761",
             "releaseDate": "2016-08-02",
             "heading": "August 2, 2016 &#x2014; KB3176929 (OS Build 14393.10)"
+        },
+        {
+            "updateKb": "KB4499418",
+            "updateUrl": "https://support.microsoft.com/help/4499418",
+            "releaseDate": "2019-04-25",
+            "releaseVersion": "14393.2908"
         }
     ],
     "1511": [
