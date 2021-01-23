@@ -3229,6 +3229,12 @@
             "releaseVersion": "10586.17"
         },
         {
+            "updateKb": "KB3120677",
+            "updateUrl": "https://support.microsoft.com/help/3120677",
+            "releaseDate": "2015-11-24",
+            "releaseVersion": "10586.14"
+        },
+        {
             "updateKb": "KB3118754",
             "updateUrl": "https://support.microsoft.com/help/3118754",
             "releaseDate": "2015-11-18",
