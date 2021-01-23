@@ -549,6 +549,12 @@
     ],
     "1809": [
         {
+            "updateKb": "KB4598296",
+            "updateUrl": "https://support.microsoft.com/help/4598296",
+            "releaseDate": "2021-01-21",
+            "heading": "January 21, 2021&#x2014;KB4598296 (OS Build 17763.1728)"
+        },
+        {
             "updateKb": "KB4598230",
             "updateUrl": "https://support.microsoft.com/help/4598230",
             "releaseDate": "2021-01-12",
