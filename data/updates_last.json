@@ -3501,6 +3501,12 @@
             "heading": "August 14, 2018&#x2014;KB4343892 (OS Build 10240.17946)"
         },
         {
+            "updateKb": "KB4345455",
+            "updateUrl": "https://support.microsoft.com/help/4345455",
+            "releaseDate": "2018-07-16",
+            "heading": "July 16, 2018&#x2014;KB4345455 (OS Build 10240.17918)"
+        },
+        {
             "updateKb": "KB4338829",
             "updateUrl": "https://support.microsoft.com/help/4338829",
             "releaseDate": "2018-07-10",
