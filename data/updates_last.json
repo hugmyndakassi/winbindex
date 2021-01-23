@@ -539,6 +539,12 @@
             "updateUrl": "https://support.microsoft.com/help/4497935",
             "releaseDate": "2019-05-29",
             "heading": "May 29, 2019&#x2014;KB4497935 (OS Build 18362.145)"
+        },
+        {
+            "updateKb": "KB4505057",
+            "updateUrl": "https://support.microsoft.com/help/4505057",
+            "releaseDate": "2019-05-21",
+            "releaseVersion": "18362.116"
         }
     ],
     "1809": [
