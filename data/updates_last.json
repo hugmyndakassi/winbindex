@@ -3606,7 +3606,7 @@
             "updateUrl": "https://support.microsoft.com/help/4598229"
         },
         "KB4598298": {
-            "heading": "January 21, 2021&#x2014;KB4598298 (OS Build 18363.1350)",
+            "heading": "January 21, 2021&#x2014;KB4598298 (OS Build 18363.1350) Preview",
             "releaseDate": "2021-01-21",
             "releaseVersion": "18363.1350",
             "updateUrl": "https://support.microsoft.com/help/4598298"
@@ -3616,6 +3616,12 @@
             "releaseDate": "2021-02-09",
             "releaseVersion": "18363.1377",
             "updateUrl": "https://support.microsoft.com/help/4601315"
+        },
+        "KB5001028": {
+            "heading": "February 11, 2021&#x2014;KB5001028 (OS Build 18363.1379) Out-of-band",
+            "releaseDate": "2021-02-11",
+            "releaseVersion": "18363.1379",
+            "updateUrl": "https://support.microsoft.com/help/5001028"
         }
     },
     "2004": {
