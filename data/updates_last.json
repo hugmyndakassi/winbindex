@@ -732,6 +732,7 @@
             "updateUrl": "https://support.microsoft.com/help/4088779"
         },
         "KB4093109": {
+            "heading": "April 10, 2018&#x2014;KB4093109 (OS Build 10586.1540)",
             "releaseDate": "2018-04-10",
             "releaseVersion": "10586.1540",
             "updateUrl": "https://support.microsoft.com/help/4093109"
@@ -2941,6 +2942,7 @@
             "updateUrl": "https://support.microsoft.com/help/4471332"
         },
         "KB4476976": {
+            "heading": "January 22, 2019&#x2014;KB4476976 (OS Build 17763.292)",
             "releaseDate": "2019-01-22",
             "releaseVersion": "17763.292",
             "updateUrl": "https://support.microsoft.com/help/4476976"
@@ -3762,6 +3764,15 @@
             "releaseDate": "2021-02-09",
             "releaseVersion": "19041.804",
             "updateUrl": "https://support.microsoft.com/help/4601319"
+        },
+        "KB4601382": {
+            "heading": "February 24, 2021&#x2014;KB4601382 (OS Builds 19041.844 and 19042.844) Preview",
+            "otherWindowsVersions": [
+                "20H2"
+            ],
+            "releaseDate": "2021-02-24",
+            "releaseVersion": "19041.844",
+            "updateUrl": "https://support.microsoft.com/help/4601382"
         }
     }
 }
