@@ -1409,6 +1409,12 @@
             "releaseDate": "2021-02-09",
             "releaseVersion": "14393.4225",
             "updateUrl": "https://support.microsoft.com/help/4601318"
+        },
+        "KB5000803": {
+            "heading": "March 9, 2021&#x2014;KB5000803 (OS Build 14393.4283)",
+            "releaseDate": "2021-03-09",
+            "releaseVersion": "14393.4283",
+            "updateUrl": "https://support.microsoft.com/help/5000803"
         }
     },
     "1703": {
