@@ -508,6 +508,12 @@
             "releaseDate": "2021-02-09",
             "releaseVersion": "10240.18842",
             "updateUrl": "https://support.microsoft.com/help/4601331"
+        },
+        "KB5000807": {
+            "heading": "March 9, 2021-KB5000807 (OS Build 10240.18874)",
+            "releaseDate": "2021-03-09",
+            "releaseVersion": "10240.18874",
+            "updateUrl": "https://support.microsoft.com/help/5000807"
         }
     },
     "1511": {
