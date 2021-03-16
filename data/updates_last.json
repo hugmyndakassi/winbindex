@@ -3830,6 +3830,15 @@
             "releaseDate": "2021-03-09",
             "releaseVersion": "19041.867",
             "updateUrl": "https://support.microsoft.com/help/5000802"
+        },
+        "KB5001567": {
+            "heading": "March 15, 2021&#x2014;KB5001567 (OS Builds 19041.868 and 19042.868) Out-of-band",
+            "otherWindowsVersions": [
+                "20H2"
+            ],
+            "releaseDate": "2021-03-15",
+            "releaseVersion": "19041.868",
+            "updateUrl": "https://support.microsoft.com/help/5001567"
         }
     }
 }
