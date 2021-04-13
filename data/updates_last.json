@@ -3888,6 +3888,15 @@
             "releaseVersion": "19041.906",
             "updateUrl": "https://support.microsoft.com/help/5000842"
         },
+        "KB5001330": {
+            "heading": "April 13, 2021&#x2014;KB5001330 (OS Builds 19041.928 and 19042.928)",
+            "otherWindowsVersions": [
+                "20H2"
+            ],
+            "releaseDate": "2021-04-13",
+            "releaseVersion": "19041.928",
+            "updateUrl": "https://support.microsoft.com/help/5001330"
+        },
         "KB5001567": {
             "heading": "March 15, 2021&#x2014;KB5001567 (OS Builds 19041.868 and 19042.868) Out-of-band",
             "otherWindowsVersions": [
