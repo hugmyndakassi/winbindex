@@ -515,6 +515,12 @@
             "releaseVersion": "10240.18874",
             "updateUrl": "https://support.microsoft.com/help/5000807"
         },
+        "KB5001340": {
+            "heading": "April 13, 2021-KB5001340 (OS Build 10240.18906)",
+            "releaseDate": "2021-04-13",
+            "releaseVersion": "10240.18906",
+            "updateUrl": "https://support.microsoft.com/help/5001340"
+        },
         "KB5001631": {
             "heading": "March 18, 2021-KB5001631 (OS Build 10240.18875) Out-of-band",
             "releaseDate": "2021-03-18",
