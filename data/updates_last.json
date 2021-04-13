@@ -1434,6 +1434,12 @@
             "releaseVersion": "14393.4283",
             "updateUrl": "https://support.microsoft.com/help/5000803"
         },
+        "KB5001347": {
+            "heading": "April 13, 2021&#x2014;KB5001347 (OS Build 14393.4350)",
+            "releaseDate": "2021-04-13",
+            "releaseVersion": "14393.4350",
+            "updateUrl": "https://support.microsoft.com/help/5001347"
+        },
         "KB5001633": {
             "heading": "March 18, 2021&#x2014;KB5001633 (OS Build 14393.4288) Out-of-band",
             "releaseDate": "2021-03-18",
