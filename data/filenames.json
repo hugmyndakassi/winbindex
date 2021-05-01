@@ -41800,6 +41800,7 @@
 "vmmvirtualization.mof",
 "vmmwebserverclient.dll",
 "vmmwsfilterplugin.dll",
+"vmphu.dll",
 "vmplatformca.exe",
 "vmplugin.dll",
 "vmpmem.dll",
