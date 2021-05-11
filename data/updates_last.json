@@ -526,6 +526,12 @@
             "releaseDate": "2021-03-18",
             "releaseVersion": "10240.18875",
             "updateUrl": "https://support.microsoft.com/help/5001631"
+        },
+        "KB5003172": {
+            "heading": "May 11, 2021-KB5003172 (OS Build 10240.18932)",
+            "releaseDate": "2021-05-11",
+            "releaseVersion": "10240.18932",
+            "updateUrl": "https://support.microsoft.com/help/5003172"
         }
     },
     "1511": {
