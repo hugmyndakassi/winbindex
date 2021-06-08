@@ -532,6 +532,12 @@
             "releaseDate": "2021-05-11",
             "releaseVersion": "10240.18932",
             "updateUrl": "https://support.microsoft.com/help/5003172"
+        },
+        "KB5003687": {
+            "heading": "June 8, 2021-KB5003687 (OS Build 10240.18967)",
+            "releaseDate": "2021-06-08",
+            "releaseVersion": "10240.18967",
+            "updateUrl": "https://support.microsoft.com/help/5003687"
         }
     },
     "1511": {
