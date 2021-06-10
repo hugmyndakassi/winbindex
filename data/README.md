@@ -6,7 +6,7 @@
 
 <!--FileStats-->
 Total amount of exe, dll and sys files: 290,993  
-Files with a download link: 243,003 (105,772 from the actual files, 137,231 from VirusTotal)  
-Files without a download link: 47,990 (47,990 weren't uploaded to VirusTotal, 0 weren't checked yet)  
+Files with a download link: 243,056 (105,772 from the actual files, 137,284 from VirusTotal)  
+Files without a download link: 47,937 (47,937 weren't uploaded to VirusTotal, 0 weren't checked yet)  
 % of files with a download link: 83.5  
 <!--/FileStats-->
