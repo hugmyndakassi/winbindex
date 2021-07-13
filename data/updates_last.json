@@ -3451,6 +3451,12 @@
             "releaseVersion": "17763.2028",
             "updateUrl": "https://support.microsoft.com/help/5003703"
         },
+        "KB5004244": {
+            "heading": "July 13, 2021&#x2014;KB5004244 (OS Build 17763.2061)",
+            "releaseDate": "2021-07-13",
+            "releaseVersion": "17763.2061",
+            "updateUrl": "https://support.microsoft.com/help/5004244"
+        },
         "KB5004947": {
             "heading": "July 6, 2021&#x2014;KB5004947 (OS Build 17763.2029) Out-of-band",
             "releaseDate": "2021-07-06",
