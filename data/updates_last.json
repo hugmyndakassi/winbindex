@@ -1493,6 +1493,12 @@
             "releaseDate": "2021-07-07",
             "releaseVersion": "14393.4470",
             "updateUrl": "https://support.microsoft.com/help/5004948"
+        },
+        "KB5005393": {
+            "heading": "July 29, 2021&#x2014;KB5005393 (OS Build 14393.4532) Out-of-band",
+            "releaseDate": "2021-07-29",
+            "releaseVersion": "14393.4532",
+            "updateUrl": "https://support.microsoft.com/help/5005393"
         }
     },
     "1703": {
