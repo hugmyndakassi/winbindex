@@ -550,6 +550,12 @@
             "releaseDate": "2021-07-06",
             "releaseVersion": "10240.18969",
             "updateUrl": "https://support.microsoft.com/help/5004950"
+        },
+        "KB5005040": {
+            "heading": "August 10, 2021-KB5005040 (OS Build 10240.19022)",
+            "releaseDate": "2021-08-10",
+            "releaseVersion": "10240.19022",
+            "updateUrl": "https://support.microsoft.com/help/5005040"
         }
     },
     "1511": {
