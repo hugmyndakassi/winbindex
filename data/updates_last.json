@@ -562,6 +562,12 @@
             "releaseDate": "2021-09-14",
             "releaseVersion": "10240.19060",
             "updateUrl": "https://support.microsoft.com/help/5005569"
+        },
+        "KB5006675": {
+            "heading": "October 12, 2021-KB5006675 (OS Build 10240.19086)",
+            "releaseDate": "2021-10-12",
+            "releaseVersion": "10240.19086",
+            "updateUrl": "https://support.microsoft.com/help/5006675"
         }
     },
     "1511": {
