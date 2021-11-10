@@ -1549,6 +1549,12 @@
             "releaseDate": "2021-10-12",
             "releaseVersion": "14393.4704",
             "updateUrl": "https://support.microsoft.com/help/5006669"
+        },
+        "KB5007192": {
+            "heading": "November 9, 2021&#x2014;KB5007192 (OS Build 14393.4770)",
+            "releaseDate": "2021-11-09",
+            "releaseVersion": "14393.4770",
+            "updateUrl": "https://support.microsoft.com/help/5007192"
         }
     },
     "1703": {
