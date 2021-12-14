@@ -1574,6 +1574,12 @@
             "releaseVersion": "14393.4770",
             "updateUrl": "https://support.microsoft.com/help/5007192"
         },
+        "KB5008207": {
+            "heading": "December 14, 2021&#x2014;KB5008207 (OS Build 14393.4825)",
+            "releaseDate": "2021-12-14",
+            "releaseVersion": "14393.4825",
+            "updateUrl": "https://support.microsoft.com/help/5008207"
+        },
         "KB5008601": {
             "heading": "November 14, 2021&#x2014;KB5008601 (OS Build 14393.4771) Out-of-band",
             "releaseDate": "2021-11-14",
