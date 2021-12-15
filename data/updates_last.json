@@ -606,6 +606,12 @@
             "releaseDate": "2021-11-09",
             "releaseVersion": "10240.19119",
             "updateUrl": "https://support.microsoft.com/help/5007207"
+        },
+        "KB5008230": {
+            "heading": "December 14, 2021-KB5008230 (OS Build 10240.19145)",
+            "releaseDate": "2021-12-14",
+            "releaseVersion": "10240.19145",
+            "updateUrl": "https://support.microsoft.com/help/5008230"
         }
     },
     "1511": {
